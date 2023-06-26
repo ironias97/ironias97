@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a teacher helping students to deicover the IT world<br>🤝 I’m looking for help with web development<br>🌱 I’m currently learning MVEN stack<br>⚡ Fun fact at the beginning of my professional career I hated web programming until I got my first job on that haha
+🔭 I’m currently working as a teacher helping students to discover the IT world<br>🤝 I’m looking for help with web development<br>🌱 I’m currently learning MVEN stack<br>⚡ Fun fact at the beginning of my professional career I hated web programming until I got my first job on that haha
 
 
 ## 🌐 Socials:
